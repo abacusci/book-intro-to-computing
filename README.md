@@ -1,38 +1,53 @@
-# AbacusCI Book – Introduction to Computing
+# Introduction to Computing – Book
 
-Welcome to the first official Book Guide of Abacus Computing Institute.  
-This guide is designed to provide a clear and accessible introduction to the world of computing for beginners of all ages.
+Welcome to the **Introduction to Computing** book by Abacus Computing Institute.
 
-## 🌐 About This Guide
+> 📖 The complete content of this book is available in the [Wiki of this repository](../../wiki). This README provides a general overview.
 
-This book lays the foundation for everything we do at AbacusCI. It explains how computers work, what they are made of, and how we interact with them through operating systems and digital structures.
+---
 
-**What you will learn:**
+## 🌐 What This Book Covers
+
+This is the starting point for all students at AbacusCI. It offers a simple and clear introduction to how computers work, what they are made of, and how we use them in everyday life.
+
+### 🧠 Key Topics
+
 - What is a computer?
-- Basic components: CPU, RAM, storage, input/output devices
-- Difference between hardware and software
-- How operating systems work (Linux, Windows, basic concepts)
-- Files, folders, memory, and storage explained
-- How to navigate a digital environment with confidence
+- Hardware: CPU, RAM, storage, input/output devices
+- Software vs Hardware
+- Operating system basics (Linux and Windows)
+- Files, folders, memory, and storage
+- Digital navigation and confidence in using a computer
 
-## 🧭 Target Audience
+---
 
-This guide is meant for:
-- Complete beginners
-- Students preparing to take other AbacusCI modules
-- Anyone who wants to understand computing at a structural level
+## 🎯 Who Is This For?
 
-## 📘 Format and Use
+This book is ideal for:
 
-This material can be used:
-- In class as a guided reference
-- For self-paced learning
-- As a printable handout or digital eBook
+- Absolute beginners of any age
+- Students preparing for other AbacusCI modules
+- Anyone curious about the basics of computing
+
+---
+
+## 📘 How to Use This Book
+
+Use this book as a:
+
+- Classroom reference during training
+- Self-paced digital resource
+- Printable handout or eBook-style companion
+
+> You don’t need any previous experience. Just curiosity and willingness to learn.
+
+---
 
 ## 🔐 License
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
-© 2025 Abacus Computing Institute.
+This work is licensed under a  
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
+© 2025 Abacus Computing Institute
 
 ---
 
