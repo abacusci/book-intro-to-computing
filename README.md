@@ -1,4 +1,4 @@
-# Introduction to Computing – Book
+# AbacusCI Book - Introduction to Computing
 
 Welcome to the **Introduction to Computing** book by Abacus Computing Institute.
 
