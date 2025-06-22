@@ -1,54 +1,57 @@
-# AbacusCI Book - Introduction to Computing
+# 📘 Introduction to Computing  
+*A foundational book from Abacus Computing Institute*
 
-Welcome to the **Introduction to Computing** book by Abacus Computing Institute.
-
-> 📖 The complete content of this book is available in the [Wiki of this repository](../../wiki). This README provides a general overview.
-
----
-
-## 🌐 What This Book Covers
-
-This is the starting point for all students at AbacusCI. It offers a simple and clear introduction to how computers work, what they are made of, and how we use them in everyday life.
-
-### 🧠 Key Topics
-
-- What is a computer?
-- Hardware: CPU, RAM, storage, input/output devices
-- Software vs Hardware
-- Operating system basics (Linux and Windows)
-- Files, folders, memory, and storage
-- Digital navigation and confidence in using a computer
+> 📖 The full content is available in the [Wiki](../../wiki). This README provides an overview and usage guide.
 
 ---
 
-## 🎯 Who Is This For?
+## 🧭 Overview
 
-This book is ideal for:
-
-- Absolute beginners of any age
-- Students preparing for other AbacusCI modules
-- Anyone curious about the basics of computing
+This book introduces the core ideas behind computing. It is not about using a computer, but about **understanding how computers work**, what they are made of, and why they behave the way they do. It’s the foundation of all technical paths at AbacusCI.
 
 ---
 
-## 📘 How to Use This Book
+## 📌 Topics Covered
 
-Use this book as a:
-
-- Classroom reference during training
-- Self-paced digital resource
-- Printable handout or eBook-style companion
-
-> You don’t need any previous experience. Just curiosity and willingness to learn.
+- The real meaning of "computing"
+- Machines and logic: why computers are not smart
+- Input → Process → Output model
+- Binary system, bits, bytes, and file sizes
+- Text vs binary files, encoding (ASCII, UTF-8)
+- Files, folders, and file systems
+- Hardware vs Software
+- Operating systems and programs
+- Terminal basics and low-level interaction
 
 ---
 
-## 🔐 License
+## 🎯 Who Should Read This?
 
-This work is licensed under a  
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
+- Beginners with zero experience in computing
+- Students preparing for modules like Programming or Fullstack Development
+- Anyone curious about digital systems and logic
+
+---
+
+## 📚 How to Use
+
+- Read online via the Wiki  
+- Export as a PDF (see [Releases](../../releases))  
+- Use in class, print, or self-study  
+- Reuse in other modules as a knowledge node
+
+---
+
+## 💡 Why It Matters
+
+Understanding computing is the first step to becoming a digital creator. Knowing how machines work gives you the power to control them, not just use them.
+
+> “A computer is only as smart as the instructions it receives. Learn to speak its language.”
+
+---
+
+## 📄 License
+
+This work is licensed under the  
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 © 2025 Abacus Computing Institute
-
----
-
-> "Understanding the digital world starts with learning how it works. This guide is your first step."
